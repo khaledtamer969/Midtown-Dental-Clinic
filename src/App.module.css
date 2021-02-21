@@ -13,6 +13,9 @@ html {
   align-content: center;
 }
 .App h1{
+  margin-left:45%;
+  font-size: 45px;
+  color:  rgb(138,198,76);
   margin: 10px 0;
   line-height: 500px;
   width: 50%;

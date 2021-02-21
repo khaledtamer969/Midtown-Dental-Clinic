@@ -28,7 +28,7 @@ class slideshow extends Component {
   render() {
     const properties = {
       duration: 4000,
-      autoplay: true,
+      autoplay: false,
       transitionDuration: 500,
       arrows: true,
       infinite: true,
