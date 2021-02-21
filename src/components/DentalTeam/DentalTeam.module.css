@@ -1,0 +1,67 @@
+.DentalTeam{
+    padding-top: 30px;
+    font-family: 'Century Gothic';
+    display :flex;
+padding-left: 20px;
+    width:100%;
+    height: 20%;
+   text-align: justify;
+
+}
+
+#DentalTeam{
+    margin-top:200px;
+    padding:40px;
+    -webkit-transition: all 0.4s ease-in-out;
+    }
+    
+
+
+
+.DentalTeam h1
+{
+text-align:center;
+font-size: 30px;
+}
+.DentalTeam p
+{
+    font-size: 25px;
+
+}
+.DentalTeam img {
+    margin:20px;
+    padding-left: 150px;
+    height:55%;
+    width:50%;
+}
+@media(max-width:615px){
+    .DentalTeam{
+        padding-top: 15px;
+        font-family: 'Century Gothic';
+        display :flex;
+    padding-left: 10px;
+        width:100%;
+        height: 10%;
+       text-align: justify;
+    
+    }
+    
+    .DentalTeam img {
+        margin:10px;
+        padding-left: 30px;
+        height:40%;
+        width:40%;
+    }
+
+    .DentalTeam h1
+    {
+    text-align:center;
+    font-size: 15px;
+    }
+    .DentalTeam p
+    {
+        font-size: 13px;
+    
+    }
+
+}

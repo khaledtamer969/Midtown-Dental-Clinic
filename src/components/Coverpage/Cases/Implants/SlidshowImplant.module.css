@@ -1,0 +1,30 @@
+.slide-container {
+    width: 70%;
+    
+  }
+  @import "react-slideshow-image/dist/styles.css";
+  
+
+
+  .each-slide  div {
+    display: flex;
+    justify-content: center;
+    background-size: auto;
+    height: 300px;
+    
+  }
+  .slide-container Slide{
+      margin-left:100px;
+  }
+  .each-slide span {
+    padding: 20px;
+    font-size: 500px;
+    background: #efefef;
+    
+   
+  }
+  .slide-container img{
+
+    margin-left: 350px;
+  } 
+ 

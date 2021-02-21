@@ -1,0 +1,118 @@
+
+.Whitening  {
+    border: 1.3px solid rgb(200,200,200);
+    border-top: 6px solid rgb(138,198,76);
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 15px;
+    height:30%;
+    width:400px;
+    align-content: center;
+    }
+    
+    .Whitening h2
+    {
+    padding-left:100px;
+    font-size: 37px;
+    color:  rgb(138,198,76);
+    }
+    .Whitening p
+    {
+        color:  rgb(138,198,76);
+    margin-left:70px;
+    font-weight: 500;
+    font-size: 40px;
+    }
+    
+    .Whitening img
+    {
+    margin-left:70px;
+    height: 60%;
+    width:250px;
+    position: auto;
+    }
+    .Navigationitem 
+    {
+        margin-top: 10px;
+    }
+     .Navigationitem a{
+        
+   text-decoration: none;
+   color: white;
+
+    }
+    .Whitening span button
+{
+    background:  rgb(138,198,76);
+    border: 2px solid  rgb(138,198,76);
+    border-radius: 1px;
+    color:rgb(138,198,76);
+    font-weight: bold;
+    box-shadow: 1px 1px 3px grey;
+    width: 130px;
+    height: 40px;
+    margin-left: 110px;
+    margin-top: 5px;
+    text-align: left;
+}
+    
+
+@media(max-width:615px){
+.Whitening  img :hover {
+    cursor: pointer;
+    background-color:#fff;
+    color: black;
+    text-align: center;
+    padding: 30px 20px;
+    transition: all 0.6s;
+    box-shadow: 0px 0px 15px #cdcdcd;
+}
+.Whitening div {
+    border: 1.3px solid rgb(200,200,200);
+    border-top: 6px solid rgb(138,198,76);
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height:40%;
+    width:30%;
+}
+
+.Whitening h1
+{
+    font-weight: 700;
+    font-size: 15px;
+    display:block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-top:15px;
+    margin-left:130px;
+}
+.Whitening h2
+{
+    padding-left:5px;
+    font-size:15px;
+}
+.Whitening p
+{
+padding-left:25px;
+font-size: 20px;
+}
+.Whitening button
+{
+    background:  rgb(138,198,76);
+    border: 2px solid  rgb(138,198,76);
+    border-radius: 1px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 1px 1px 3px grey;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+.Whitening img
+{
+margin-left:px  ;
+height: 60%;
+width:50%;
+}
+}

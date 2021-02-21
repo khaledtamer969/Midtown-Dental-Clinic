@@ -1,0 +1,194 @@
+.Contact{
+    display:flex;
+    background-color: lightgreen;
+}
+.Contact icon{
+
+}
+.Contact h1{
+
+
+}
+.Contact div1 img{
+    
+    width:280PX;
+    height: 200PX;
+padding-top: 25px;
+}
+.Contact img{
+    
+    width:150PX;
+    height: 150PX;
+
+}
+.Contact {
+
+
+}
+.Contact div{
+    width:25%;
+text-align: right;
+align-content: right;
+}
+.Contact div1{
+    padding-left: 350px;
+   
+
+}
+.Contact div2{
+    padding-left: 350px;
+
+
+}
+.Contact div3{
+    display: flex;
+    width:350px;
+}
+.Contact div3 img{
+    padding-left:5px;
+    width:40px;
+    height:40px;
+
+
+}
+.Contact div4 {
+    display: flex;
+    width:350px;
+}
+.Contact div4 img{
+    padding: left 10px;
+    width:40px;
+    height:40px;
+
+
+}
+.Contact div5{
+    display: flex;
+    width:350px;
+}
+.Contact div5 img{
+    padding: left 10px;
+    width:40px;
+    height:40px;
+
+
+}
+.Contact div6 {
+    display: flex;
+    width:350px;
+}
+.Contact div6 img{
+    padding: left 10px;
+    width:40px;
+    height:40px;
+
+
+}
+
+@media(max-width:615px){
+    .Contact{
+        display:flex;
+        background-color: lightgreen;
+    }
+    .Contact icon{
+    
+    }
+    .Contact h1{
+    
+    
+    }
+    .Contact div1 img{
+        
+        width:15PX;
+        height: 22PX;
+    padding-top: 25px;
+    }
+    .Contact img{
+        
+        width:10PX;
+        height: 10PX;
+    
+    }
+    .Contact {
+    
+    
+    }
+    .Contact p
+    {
+font-size: 10px;
+    }
+    .Contact div{
+width:50px;
+    text-align: right;
+    align-content: right;
+    }
+    .Contact div img{
+        width:50px;
+        height:50px ;
+            text-align: right;
+            align-content: right;
+            }
+            .Contact div p{
+                width:80px;
+                text-align: justify;
+    
+                    }
+    .Contact div1{
+        padding-left:60px;
+    }
+    .Contact div1 img{
+        width:120px;
+        height: 100px;
+        padding-left: 150px;
+    }
+    .Contact div2 {
+    margin-top: 10%;
+    }
+    .Contact div2 p {
+        font-size: 10px;
+    }
+    .Contact div3{
+        display: flex;
+        margin:10px;
+        
+    }
+    .Contact div3 img{
+        padding-left:5px;
+        width:20px;
+        height:20px;
+    
+    
+    }
+    .Contact div4 {
+        display: flex;
+        
+    }
+    .Contact div4 img{
+        padding: left px;
+        width:20px;
+        height:20px;
+    
+    
+    }
+    .Contact div5{
+        display: flex;
+        
+    }
+    .Contact div5 img{
+        padding: left 10px;
+        width:20px;
+        height:20px;
+    
+    
+    }
+    .Contact div6 {
+        display: flex;
+    }
+    .Contact div6 img{
+        padding: left 10px;
+        width:20px;
+        height:20px;
+    
+    
+    }
+}

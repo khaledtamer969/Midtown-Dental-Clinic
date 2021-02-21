@@ -1,0 +1,119 @@
+.Pedo  {
+    border: 1.3px solid rgb(200,200,200);
+    border-top: 6px solid rgb(138,198,76);
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 15px;
+    height:30%;
+    width:400px;
+    align-content: center;
+    }
+    .Pedo h2
+    {
+    padding-left:160px;
+    font-size: 34px;
+    color:  rgb(138,198,76);
+    }
+    .Pedo p
+    {
+        color:  rgb(138,198,76);
+    margin-left:180px;
+    font-weight: 500;
+    font-size: 30px;
+    }
+    
+    .Pedo img
+    {
+    margin-left:70px;
+    height: 60%;
+    width:250px;
+    }
+    .Navigationitem 
+    {
+        margin-top: 10px;
+    }
+     .Navigationitem a{
+        
+   text-decoration: none;
+   color: white;
+
+    }
+    .Pedo span button
+{
+    background:  rgb(138,198,76);
+    border: 2px solid  rgb(138,198,76);
+    border-radius: 1px;
+    color:rgb(138,198,76);
+    font-weight: bold;
+    box-shadow: 1px 1px 3px grey;
+    width: 130px;
+    height: 40px;
+    margin-left: 120px;
+    margin-top: 5px;
+    text-align: left;
+}
+    
+    
+    
+    
+
+
+@media(max-width:615px){
+    .Pedo  img :hover {
+        cursor: pointer;
+        background-color:#fff;
+        color: black;
+        text-align: center;
+        padding: 30px 20px;
+        transition: all 0.6s;
+        box-shadow: 0px 0px 15px #cdcdcd;
+    }
+    .Pedo div {
+        border: 1.3px solid rgb(200,200,200);
+        border-top: 6px solid rgb(138,198,76);
+        margin-top: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+        height:40%;
+        width:30%;
+    }
+    
+    .Pedo h1
+    {
+        font-weight: 700;
+        font-size: 15px;
+        display:block;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        padding-top:15px;
+        margin-left:130px;
+    }
+    .Pedo h2
+    {
+        padding-left:5px;
+        font-size:15px;
+    }
+    .Pedo p
+    {
+    padding-left:25px;
+    font-size: 20px;
+    }
+    .Pedo button
+    {
+        background:  rgb(138,198,76);
+        border: 2px solid  rgb(138,198,76);
+        border-radius: 1px;
+        color: white;
+        font-weight: bold;
+        box-shadow: 1px 1px 3px grey;
+        width: 100px;
+        height: 30px;
+        margin-left: 10px;
+    }
+    .Pedo img
+    {
+ margin-left:30px  ;
+    height: 60%;
+    width:50%;
+    }
+}

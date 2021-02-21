@@ -1,0 +1,102 @@
+.Who
+{
+display:flex;
+font-family: 'Century Gothic';
+}
+.Who h1
+{ 
+   font-size: 45px;
+    margin-top: 100px ;
+text-align:center;
+font-family: 'Century Gothic';
+}
+
+.Who div1{
+    display: block;
+    background-color:;
+margin-left: 140px;    
+    width: 70%;
+    text-align: center;
+
+}
+.Who body
+{
+    
+    
+    transform: bold;
+    word-spacing: 6px;
+    border-spacing: 2px;
+    font-size: 20px;
+    text-align: justify;
+}
+.Who a
+{
+    
+    color: rgb(138,198,76);;
+    
+}
+@media(max-width:889px){
+    .Who h1
+{ 
+   font-size: 45px;
+    margin-top: 50px ;
+text-align:center;
+font-family: 'Century Gothic';
+}
+.Who body
+{
+    
+    transform: bold;
+    padding-left: 150px;
+    word-spacing: 3px;
+    border-spacing: 1px;
+    text-align:center;
+    border-block-end-width: 50ch;
+    margin-block-end: 25px;
+    font-size: 14px;
+    text-align: justify;
+}
+.Who a
+{
+    font-size: 14px;
+    color: rgb(138,198,76);;
+    
+}
+}
+@media(max-width:615px){
+    .Who
+{
+    
+padding-top: 0px;
+height:20%;
+display:inline-block;
+text-align:center;
+font-family: 'Century Gothic';
+}
+    .Who h1
+{ 
+   font-size: 17px;
+    margin-top: 1px ;
+text-align:center;
+font-family: 'Century Gothic';
+}
+.Who body
+{
+    
+    transform: bold;
+    padding-left: 50px;
+    word-spacing: 4px;
+    border-spacing: 1px;
+    text-align:center;
+    border-block-end-width: 40ch;
+    margin-block-end: 20px;
+    font-size: 11px;
+    text-align: justify;
+}
+.Who a
+{
+    font-size: 14px;
+    color: rgb(138,198,76);;
+    
+}
+}

@@ -1,0 +1,28 @@
+.Logo{
+    background-color:rgb(138,198,76);
+    margin:8px;
+    height:100%;
+    box-sizing:border-box;
+    border-radius: 5px;
+    }
+    .Logo img{
+    height:100%;
+    
+    
+    }
+    @media(max-width:615px)
+    {
+        .Logo{
+            background-color:rgb(138,198,76);
+            margin:8px;
+            height:90%;
+            box-sizing:border-box;
+           
+            }
+            .Logo img{
+            height:100%;
+            
+            
+            }
+      
+    }
